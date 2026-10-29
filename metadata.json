@@ -1,0 +1,6 @@
+{
+  "name": "Formula 1 Race Intelligence — Tableau Dashboard & Story",
+  "description": "Interactive Formula 1 motorsport analytics dashboard and Tableau story analyzing driver performance, constructors championship trajectory, tyre strategy, reliability patterns, and global podiums.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
